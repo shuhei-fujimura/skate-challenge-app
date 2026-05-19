@@ -1,5 +1,22 @@
 const STORAGE_KEY = "skate_challenge_state_v1";
 const todayKey = () => new Date().toLocaleDateString("sv-SE");
+const defaultMemo = "まずはチャレンジ\nできない・わからない時は聞いてみよう";
+const dailyMessages = [
+  "エジソンみたいに、失敗は発見だと思ってみよう。",
+  "できない日は、できる日に近づいている日。",
+  "一回やってみた自分を、ちゃんとほめよう。",
+  "小さな一回が、いつか大きなメイクになる。",
+  "転んでも、考えて立てたら前に進んでいる。",
+  "今日はうまくいかなくても、体はちゃんと覚えている。",
+  "わからない時に聞ける人は、強くなれる人。",
+  "昨日より少しだけ勇気を出せたら、それで勝ち。",
+  "まず乗る。まず試す。答えはそのあとでいい。",
+  "何回も挑戦する人にだけ、できた瞬間が来る。",
+  "うまい人も、最初はできないところから始まった。",
+  "怖いと思ったら、ちょっと小さくしてもう一回。",
+  "できない技は、未来の得意技かもしれない。",
+  "今日の一回は、明日の自信になる。"
+];
 
 const els = {
   doneCount: document.getElementById("doneCount"),
@@ -16,6 +33,7 @@ const els = {
   emptyState: document.getElementById("emptyState"),
   trickList: document.getElementById("trickList"),
   template: document.getElementById("trickCardTemplate"),
+  dailyMessage: document.getElementById("dailyMessage"),
 };
 
 let tricks = [];
@@ -44,7 +62,13 @@ async function boot() {
   tricks = await response.json();
   els.searchInput.value = state.query;
   els.todayLabel.textContent = `${state.date} のチャレンジ`;
+  renderDailyMessage();
   render();
+}
+
+function renderDailyMessage() {
+  const dayNumber = Math.floor(new Date(`${todayKey()}T00:00:00`).getTime() / 86400000);
+  els.dailyMessage.textContent = dailyMessages[dayNumber % dailyMessages.length];
 }
 
 function unique(values) {
@@ -123,7 +147,7 @@ function renderCard(trick) {
   fragment.querySelector(".level").textContent = trick.level || "練習";
   fragment.querySelector(".target").textContent = trick.target || "1回";
   const memo = fragment.querySelector(".memo");
-  memo.textContent = trick.memo || "まずは1回でも触る";
+  memo.textContent = trick.memo || defaultMemo;
   const video = fragment.querySelector(".video-button");
   video.href = trick.video;
   const save = fragment.querySelector(".save-button");
