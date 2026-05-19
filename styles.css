@@ -309,10 +309,7 @@ main {
 .card-bg {
   position: absolute;
   inset: 0;
-  background:
-    linear-gradient(90deg, rgba(255, 255, 255, .92) 0%, rgba(255, 255, 255, .58) 48%, rgba(255, 255, 255, .06) 100%),
-    linear-gradient(180deg, rgba(255, 255, 255, .14) 0%, rgba(255, 255, 255, .42) 100%),
-    var(--visual);
+  background: var(--visual);
   background-size: cover;
   background-position: center right;
   filter: saturate(1.2) contrast(1.04);
@@ -550,10 +547,9 @@ main {
   }
 
   .card-bg {
-    background:
-      linear-gradient(90deg, rgba(255, 255, 255, .94) 0%, rgba(255, 255, 255, .66) 50%, rgba(255, 255, 255, .12) 100%),
-      linear-gradient(180deg, rgba(255, 255, 255, .18) 0%, rgba(255, 255, 255, .48) 100%),
-      var(--visual);
+    background: var(--visual);
+    background-size: cover;
+    background-position: center right;
   }
 
   .card-content {
