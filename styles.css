@@ -482,6 +482,7 @@ main {
 .kind-トランジション { --accent: #be123c; --visual: url("./assets/backgrounds/transition.jpg"); }
 .kind-回転 { --accent: #9333ea; --visual: url("./assets/backgrounds/flip.jpg"); }
 .kind-複合 { --accent: #ca8a04; --visual: url("./assets/backgrounds/flip.jpg"); }
+.kind-オールドスクール { --accent: #c2410c; --visual: url("./assets/backgrounds/old-school.jpg"); }
 
 @media (min-width: 720px) {
   .trick-list {
