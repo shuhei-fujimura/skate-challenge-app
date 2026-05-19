@@ -7,6 +7,7 @@
 - 日付が変わると自動でリセット
 - 技名、種類、レベルで検索・絞り込み
 - 各カードから動画検索を開ける
+- 技カテゴリごとの背景画像を表示
 
 ## GitHub Pages
 
@@ -20,6 +21,7 @@
 - `manifest.webmanifest`
 - `data/tricks.json`
 - `data/sync_meta.json`
+- `assets/backgrounds/*.jpg`
 - `.nojekyll`
 
 ## 技リスト更新

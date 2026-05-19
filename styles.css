@@ -455,15 +455,15 @@ main {
   font-weight: 700;
 }
 
-.kind-基礎 { --accent: #2563eb; --visual: linear-gradient(135deg, #dbeafe 0%, #ffffff 38%, #bfdbfe 100%); }
-.kind-バランス { --accent: #0f8a6a; --visual: linear-gradient(135deg, #d1fae5 0%, #ffffff 42%, #a7f3d0 100%); }
-.kind-フラット { --accent: #7c3aed; --visual: linear-gradient(135deg, #ede9fe 0%, #ffffff 42%, #ddd6fe 100%); }
-.kind-フリップ { --accent: #ea580c; --visual: radial-gradient(circle at 78% 34%, rgba(234, 88, 12, .28), transparent 6rem), linear-gradient(135deg, #ffedd5 0%, #ffffff 46%, #fed7aa 100%); }
-.kind-レールカーブ { --accent: #475569; --visual: linear-gradient(145deg, #e2e8f0 0%, #ffffff 38%, #cbd5e1 100%); }
-.kind-ストリート { --accent: #0f766e; --visual: linear-gradient(135deg, #ccfbf1 0%, #ffffff 44%, #99f6e4 100%); }
-.kind-トランジション { --accent: #be123c; --visual: radial-gradient(circle at 84% 28%, rgba(190, 18, 60, .24), transparent 7rem), linear-gradient(135deg, #ffe4e6 0%, #ffffff 45%, #fecdd3 100%); }
-.kind-回転 { --accent: #9333ea; --visual: radial-gradient(circle at 78% 30%, rgba(147, 51, 234, .24), transparent 7rem), linear-gradient(135deg, #f3e8ff 0%, #ffffff 45%, #e9d5ff 100%); }
-.kind-複合 { --accent: #ca8a04; --visual: linear-gradient(135deg, #fef3c7 0%, #ffffff 45%, #fde68a 100%); }
+.kind-基礎 { --accent: #2563eb; --visual: url("./assets/backgrounds/basic.jpg"); }
+.kind-バランス { --accent: #0f8a6a; --visual: url("./assets/backgrounds/basic.jpg"); }
+.kind-フラット { --accent: #7c3aed; --visual: url("./assets/backgrounds/ollie.jpg"); }
+.kind-フリップ { --accent: #ea580c; --visual: url("./assets/backgrounds/flip.jpg"); }
+.kind-レールカーブ { --accent: #475569; --visual: url("./assets/backgrounds/rail.jpg"); }
+.kind-ストリート { --accent: #0f766e; --visual: url("./assets/backgrounds/ollie.jpg"); }
+.kind-トランジション { --accent: #be123c; --visual: url("./assets/backgrounds/transition.jpg"); }
+.kind-回転 { --accent: #9333ea; --visual: url("./assets/backgrounds/flip.jpg"); }
+.kind-複合 { --accent: #ca8a04; --visual: url("./assets/backgrounds/flip.jpg"); }
 
 @media (min-width: 720px) {
   .trick-list {
