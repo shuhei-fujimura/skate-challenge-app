@@ -1,0 +1,992 @@
+[
+  {
+    "id": "trick-001",
+    "no": 1,
+    "name": "鬼プッシュ",
+    "kind": "基礎",
+    "level": "初級",
+    "target": "10回",
+    "memo": "全力でプッシュ",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E9%AC%BC%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-002",
+    "no": 2,
+    "name": "マニュアル",
+    "kind": "バランス",
+    "level": "初級",
+    "target": "5秒",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-003",
+    "no": 3,
+    "name": "ショービット",
+    "kind": "フラット",
+    "level": "初級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%93%E3%83%83%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-004",
+    "no": 4,
+    "name": "オーリー組コーン",
+    "kind": "フラット",
+    "level": "初級",
+    "target": "10回",
+    "memo": "三角コーンを組んで高さを出す",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%E7%B5%84%E3%82%B3%E3%83%BC%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-005",
+    "no": 5,
+    "name": "オーリー全越え",
+    "kind": "フラット",
+    "level": "初級",
+    "target": "10回",
+    "memo": "全部を超える",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%E5%85%A8%E8%B6%8A%E3%81%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-006",
+    "no": 6,
+    "name": "ノーズマニュアル",
+    "kind": "バランス",
+    "level": "中級",
+    "target": "3秒",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-007",
+    "no": 7,
+    "name": "フェイキーオーリー",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AD%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-008",
+    "no": 8,
+    "name": "ノーリー",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-009",
+    "no": 9,
+    "name": "スイッチオーリー",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-010",
+    "no": 10,
+    "name": "フロントサイド180",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89180%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-011",
+    "no": 11,
+    "name": "バックサイド180",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89180%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-012",
+    "no": 12,
+    "name": "ハーフキャブ",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8F%E3%83%BC%E3%83%95%E3%82%AD%E3%83%A3%E3%83%96%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-013",
+    "no": 13,
+    "name": "フルキャブ",
+    "kind": "フラット",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%96%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-014",
+    "no": 14,
+    "name": "ポップショービット",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%93%E3%83%83%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-015",
+    "no": 15,
+    "name": "フロントショービット",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%93%E3%83%83%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-016",
+    "no": 16,
+    "name": "フェイキーショービット",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%93%E3%83%83%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-017",
+    "no": 17,
+    "name": "ノーリーショービット",
+    "kind": "フラット",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%93%E3%83%83%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-018",
+    "no": 18,
+    "name": "ビッグスピン",
+    "kind": "フラット",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%93%E3%83%83%E3%82%B0%E3%82%B9%E3%83%94%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-019",
+    "no": 19,
+    "name": "フェイキービッグスピン",
+    "kind": "フラット",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AD%E3%83%BC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B9%E3%83%94%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-020",
+    "no": 20,
+    "name": "ノーリービッグスピン",
+    "kind": "フラット",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B9%E3%83%94%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-021",
+    "no": 21,
+    "name": "キックフリップ",
+    "kind": "フリップ",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-022",
+    "no": 22,
+    "name": "ヒールフリップ",
+    "kind": "フリップ",
+    "level": "中級",
+    "target": "10回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-023",
+    "no": 23,
+    "name": "フェイキーキックフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-024",
+    "no": 24,
+    "name": "フェイキーヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AD%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-025",
+    "no": 25,
+    "name": "ノーリーキックフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-026",
+    "no": 26,
+    "name": "ノーリーヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-027",
+    "no": 27,
+    "name": "スイッチキックフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-028",
+    "no": 28,
+    "name": "スイッチヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-029",
+    "no": 29,
+    "name": "バリアルキックフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-030",
+    "no": 30,
+    "name": "バリアルヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-031",
+    "no": 31,
+    "name": "トレフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "5回",
+    "memo": "360フリップ",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%88%E3%83%AC%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-032",
+    "no": 32,
+    "name": "レーザーフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-033",
+    "no": 33,
+    "name": "ハードフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8F%E3%83%BC%E3%83%89%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-034",
+    "no": 34,
+    "name": "インワードヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%89%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-035",
+    "no": 35,
+    "name": "ダブルキックフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%80%E3%83%96%E3%83%AB%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-036",
+    "no": 36,
+    "name": "ダブルヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%80%E3%83%96%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-037",
+    "no": 37,
+    "name": "ノーコンプライ",
+    "kind": "オールドスクール",
+    "level": "中級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-038",
+    "no": 38,
+    "name": "ボンレス",
+    "kind": "オールドスクール",
+    "level": "中級",
+    "target": "5回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9C%E3%83%B3%E3%83%AC%E3%82%B9%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-039",
+    "no": 39,
+    "name": "キャスパー",
+    "kind": "オールドスクール",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-040",
+    "no": 40,
+    "name": "プリモ",
+    "kind": "オールドスクール",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%97%E3%83%AA%E3%83%A2%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-041",
+    "no": 41,
+    "name": "ボードスライド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-042",
+    "no": 42,
+    "name": "フロントサイドボードスライド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-043",
+    "no": 43,
+    "name": "バックサイドボードスライド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-044",
+    "no": 44,
+    "name": "リップスライド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-045",
+    "no": 45,
+    "name": "ノーズスライド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-046",
+    "no": 46,
+    "name": "テールスライド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%86%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-047",
+    "no": 47,
+    "name": "ブラントスライド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-048",
+    "no": 48,
+    "name": "ノーズブラントスライド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%83%96%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-049",
+    "no": 49,
+    "name": "バックサイド50-50グラインド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%8950-50%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-050",
+    "no": 50,
+    "name": "フロントサイド50-50グラインド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%8950-50%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-051",
+    "no": 51,
+    "name": "バックサイド5-0グラインド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%895-0%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-052",
+    "no": 52,
+    "name": "フロントサイド5-0グラインド",
+    "kind": "レール/カーブ",
+    "level": "中級",
+    "target": "5本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%895-0%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-053",
+    "no": 53,
+    "name": "ノーズグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-054",
+    "no": 54,
+    "name": "クルックドグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "クルック",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AF%E3%83%AB%E3%83%83%E3%82%AF%E3%83%89%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-055",
+    "no": 55,
+    "name": "バックサイドスミスグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89%E3%82%B9%E3%83%9F%E3%82%B9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-056",
+    "no": 56,
+    "name": "フロントサイドスミスグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%82%B9%E3%83%9F%E3%82%B9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-057",
+    "no": 57,
+    "name": "フェイキースミスグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%9F%E3%82%B9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-058",
+    "no": 58,
+    "name": "フィーブルグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-059",
+    "no": 59,
+    "name": "サラダグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%B5%E3%83%A9%E3%83%80%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-060",
+    "no": 60,
+    "name": "ウィリーグラインド",
+    "kind": "レール/カーブ",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-061",
+    "no": 61,
+    "name": "バックサイドディザスター",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89%E3%83%87%E3%82%A3%E3%82%B6%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-062",
+    "no": 62,
+    "name": "フロントサイドディザスター",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%83%87%E3%82%A3%E3%82%B6%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-063",
+    "no": 63,
+    "name": "オーリーアップ",
+    "kind": "ストリート",
+    "level": "中級",
+    "target": "5回",
+    "memo": "段差に上がる",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-064",
+    "no": 64,
+    "name": "オーリーダウン",
+    "kind": "ストリート",
+    "level": "中級",
+    "target": "5回",
+    "memo": "段差を降りる",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%80%E3%82%A6%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-065",
+    "no": 65,
+    "name": "ステアオーリー",
+    "kind": "ストリート",
+    "level": "中級",
+    "target": "3回",
+    "memo": "階段",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%B9%E3%83%86%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-066",
+    "no": 66,
+    "name": "ギャップオーリー",
+    "kind": "ストリート",
+    "level": "中級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-067",
+    "no": 67,
+    "name": "キックフリップダウン",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3回",
+    "memo": "段差/ステア",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%80%E3%82%A6%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-068",
+    "no": 68,
+    "name": "ヒールフリップダウン",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3回",
+    "memo": "段差/ステア",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%80%E3%82%A6%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-069",
+    "no": 69,
+    "name": "180ダウン",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3回",
+    "memo": "段差/ステア",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20180%E3%83%80%E3%82%A6%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-070",
+    "no": 70,
+    "name": "ポップショービットダウン",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3回",
+    "memo": "段差/ステア",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%93%E3%83%83%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-071",
+    "no": 71,
+    "name": "マニュアルパッド",
+    "kind": "ストリート",
+    "level": "中級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%91%E3%83%83%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-072",
+    "no": 72,
+    "name": "オーリーtoマニュアル",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BCto%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-073",
+    "no": 73,
+    "name": "マニュアルtoオーリーアウト",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%ABto%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-074",
+    "no": 74,
+    "name": "ノーズマニュアルtoオーリーアウト",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%8E%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%ABto%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-075",
+    "no": 75,
+    "name": "キックフリップtoマニュアル",
+    "kind": "ストリート",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97to%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-076",
+    "no": 76,
+    "name": "50-50 to 180アウト",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%2050-50%20to%20180%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-077",
+    "no": 77,
+    "name": "5-0 to 180アウト",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%205-0%20to%20180%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-078",
+    "no": 78,
+    "name": "キックフリップボードスライド",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-079",
+    "no": 79,
+    "name": "キックフリップノーズスライド",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%83%BC%E3%82%BA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-080",
+    "no": 80,
+    "name": "ヒールフリップボードスライド",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-081",
+    "no": 81,
+    "name": "ビッグスピンボードスライド",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%93%E3%83%83%E3%82%B0%E3%82%B9%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-082",
+    "no": 82,
+    "name": "トレフリップダウン",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3回",
+    "memo": "段差/ステア",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%88%E3%83%AC%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%80%E3%82%A6%E3%83%B3%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-083",
+    "no": 83,
+    "name": "アーリーグライントリー",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-084",
+    "no": 84,
+    "name": "キャブロックンロール",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AD%E3%83%A3%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%AB%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-085",
+    "no": 85,
+    "name": "ガムチョップノーズ",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%82%AC%E3%83%A0%E3%83%81%E3%83%A7%E3%83%83%E3%83%97%E3%83%8E%E3%83%BC%E3%82%BA%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-086",
+    "no": 86,
+    "name": "270ストール",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20270%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-087",
+    "no": 87,
+    "name": "360",
+    "kind": "回転",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20360%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-088",
+    "no": 88,
+    "name": "540",
+    "kind": "回転",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20540%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-089",
+    "no": 89,
+    "name": "ブラント",
+    "kind": "トランジション",
+    "level": "中級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-090",
+    "no": 90,
+    "name": "バックサイドノーズ",
+    "kind": "トランジション",
+    "level": "中級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89%E3%83%8E%E3%83%BC%E3%82%BA%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-091",
+    "no": 91,
+    "name": "フロントサイドノーズ",
+    "kind": "トランジション",
+    "level": "中級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%83%8E%E3%83%BC%E3%82%BA%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-092",
+    "no": 92,
+    "name": "ブラント180",
+    "kind": "トランジション",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%88180%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-093",
+    "no": 93,
+    "name": "フリップブラント",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%83%96%E3%83%A9%E3%83%B3%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-094",
+    "no": 94,
+    "name": "フリップアウト",
+    "kind": "複合",
+    "level": "上級",
+    "target": "3本",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-095",
+    "no": 95,
+    "name": "バックサイド180キックフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89180%E3%82%AD%E3%83%83%E3%82%AF%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-096",
+    "no": 96,
+    "name": "バックサイド180ヒールフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89180%E3%83%92%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-097",
+    "no": 97,
+    "name": "バックサイドフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-098",
+    "no": 98,
+    "name": "フロントサイドフリップ",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%84%E3%82%8A%E6%96%B9"
+  },
+  {
+    "id": "trick-099",
+    "no": 99,
+    "name": "フリップ360",
+    "kind": "フリップ",
+    "level": "上級",
+    "target": "3回",
+    "memo": "",
+    "video": "https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%B1%E3%83%9C%E3%83%BC%20%E3%83%95%E3%83%AA%E3%83%83%E3%83%97360%20%E3%82%84%E3%82%8A%E6%96%B9"
+  }
+]
